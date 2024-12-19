@@ -26,9 +26,7 @@ Publications
 <div style="text-align: left;">
   <img src="./files/glus.png" alt="" width="90%">
 </div>
-
 <br>
-
 **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
 <em>In Submission</em>  
