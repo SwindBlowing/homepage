@@ -11,7 +11,7 @@ Welcome to my homepage! I'm Lang Lin, a senior undergraduate student at [Nanjing
 
 Previously, I had the privilege of working at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) and the [National Center for Supercomputing Applications](https://github.com/ncsa), under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/). Before that, I served as a research intern at [Websoft](http://ws.nju.edu.cn/wiki/) at NJU, under the guidance of [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng). I was also an active member of NJU ACM/ICPC team. You can download my **CV** from [here](https://drive.google.com/file/d/1TOehCIetE-TVqvNI1r7Bc3N-yl3s8PBM/view?usp=sharing).  
 
-My research interests broadly in computer vision, with a particular focus on **multi-modal segmentation, generation**, and **video segmentation**.  
+My research interests lie broadly in computer vision, with a particular focus on **multi-modal reasoning and generation**, and **video segmentation**.  
 
 **I'm looking for a Ph.D. position starting in 2025 Fall. Please feel free to reach out!**
 
