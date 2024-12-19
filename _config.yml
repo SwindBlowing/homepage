@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lang Lin"
 description              : &description "personal description"
