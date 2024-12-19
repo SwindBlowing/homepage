@@ -41,7 +41,7 @@ Education
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="/files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
+  <img src="./files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
   <p style="font-size: 0.9em;"> 
   <b> Nanjing University </b><br>
   2021.09 - 2025.07 (Expected)<br>
