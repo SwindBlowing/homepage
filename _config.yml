@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Lang Lin"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Nanjing, China"
   employer         : # "Red Brick University"
   uri              : # URL
