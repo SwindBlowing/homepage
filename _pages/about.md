@@ -35,7 +35,7 @@ Education
 
 <div style="display: flex; align-items: center;">
   <img src="/files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> Nanjing University </b><br>
   2021.09 - 2025.07 (Expected)<br>
   <br>
@@ -47,7 +47,7 @@ Education
 
 <div style="display: flex; align-items: center;">
   <img src="/files/PKU.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> Peking University </b><br>
   2023.07 - 2023.08 <br>
   <br>
@@ -60,7 +60,7 @@ Academic Experiences
 
 <div style="display: flex; align-items: center;">
   <img src="/files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> OpenGVLab @ Shanghai AI Lab </b><br>
   <br>
   <b> Research Intern </b> &nbsp; &nbsp; 2025.01 - present <br>
@@ -71,7 +71,7 @@ Academic Experiences
 
 <div style="display: flex; align-items: center;">
   <img src="/files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> Vision Lab @ UIUC </b><br>
   <br>
   <b> Research Intern </b> &nbsp; &nbsp; 2024.06 - present <br>
@@ -82,7 +82,7 @@ Academic Experiences
 
 <div style="display: flex; align-items: center;">
   <img src="/files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> SmartMore </b><br>
   <br>
   <b> Research Intern </b> &nbsp; &nbsp; 2024.04 - 2024.07 <br>
@@ -93,7 +93,7 @@ Academic Experiences
 
 <div style="display: flex; align-items: center;">
   <img src="/files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
-  <p style="font-size: 0.8em;"> 
+  <p style="font-size: 0.9em;"> 
   <b> Websoft @ NJU </b><br>
   <br>
   <b> Research Intern </b> &nbsp; &nbsp; 2022.07 - 2023.10 <br>
@@ -116,8 +116,17 @@ Awards
 Services
 ======
 
-- **Teaching Assistant**, Problem Solving (National Core Course) (23 Fall, 24 Spring, 24 Fall) @ NJU
-- Teaching Assistant, Introduction to Computer System (Elite Class) (23 Fall) @ NJU
+- **Teaching Assistant**, Problem Solving (National Core Course), 23 Fall, 24 Spring, 24 Fall
+- Teaching Assistant, Introduction to Computer System (Elite Class), 23 Fall
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HYu7uSRXQfF5xkKMcgICSLX5ZBgost2pw-Dd_V7nY_E&cl=ffffff&w=a"></script>
+
+
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="width: 200px; height: 150px; overflow: hidden;">
+    <script type="text/javascript" id="clustrmaps" 
+            src="//clustrmaps.com/map_v2.js?d=HYu7uSRXQfF5xkKMcgICSLX5ZBgost2pw-Dd_V7nY_E&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
