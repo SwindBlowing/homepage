@@ -24,7 +24,7 @@ Publications
 
 
 <div style="text-align: left;">
-  <img src="../files/glus.png" alt="" width="70%">
+  <img src="./files/glus.png" alt="" width="70%">
 </div>
 
 - **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
