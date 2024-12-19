@@ -24,15 +24,15 @@ Publications
 
 
 <div style="text-align: left;">
-  <img src="./files/glus.png" alt="" width="75%">
+  <img src="./files/glus.png" alt="" width="90%">
 </div>
 
+<br>
 
 **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
 <em>In Submission</em>  
-[project page](https://glus-video.github.io/)
-
+[project page](https://glus-video.github.io/)  
 We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.
 
 
@@ -68,7 +68,7 @@ Academic Experiences
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="./files/opengvlab.jpg" alt="" style="width: 120px; margin-right: 106px; margin-left: 35px">
   <p style="font-size: 0.9em;"> 
   <b> OpenGVLab @ Shanghai AI Lab </b><br>
   <br>
@@ -78,10 +78,10 @@ Academic Experiences
   </p>
 </div>
 
-
+<br>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
+  <img src="./files/uiuc.png" alt="" style="width: 120px; margin-right: 106px; margin-left: 35px">
   <p style="font-size: 0.9em;"> 
   <b> Vision Lab @ UIUC </b><br>
   <br>
@@ -91,10 +91,10 @@ Academic Experiences
   </p>
 </div>
 
-
+<br>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="./files/smartmore.png" alt="" style="width: 150px; margin-right: 90px; margin-left: 20px">
   <p style="font-size: 0.9em;"> 
   <b> SmartMore </b><br>
   <br>
@@ -104,10 +104,10 @@ Academic Experiences
   </p>
 </div>
 
-
+<br>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="./files/NJU.jpg" alt="" style="width: 100px; margin-right: 110px; margin-left: 50px">
   <p style="font-size: 0.9em;"> 
   <b> Websoft @ NJU </b><br>
   <br>
@@ -117,7 +117,7 @@ Academic Experiences
   </p>
 </div>
 
-
+<br>
 
 Awards
 ======
