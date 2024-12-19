@@ -21,12 +21,11 @@ Publications
 (\* denotes equal contribution)
 
 <div style="text-align: left;">
-  <img src="../files/glus.png", alt="" width="75%"/>
+  <img src="/files/glus.png", alt="" width="75%"/>
 </div>
-
 **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
-<em>In Submission</em>
+<em>In Submission</em>  
 [project page](https://glus-video.github.io/)
 
 We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.
@@ -35,7 +34,7 @@ Education
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
+  <img src="/files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
   <p style="font-size: 0.8em;"> 
   <b> Nanjing University </b><br>
   2021.09 - 2025.07 (Expected)<br>
@@ -47,7 +46,7 @@ Education
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/PKU.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="/files/PKU.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.8em;"> 
   <b> Peking University </b><br>
   2023.07 - 2023.08 <br>
@@ -60,7 +59,7 @@ Academic Experiences
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="/files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.8em;"> 
   <b> OpenGVLab @ Shanghai AI Lab </b><br>
   <br>
@@ -71,7 +70,7 @@ Academic Experiences
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
+  <img src="/files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
   <p style="font-size: 0.8em;"> 
   <b> Vision Lab @ UIUC </b><br>
   <br>
@@ -82,7 +81,7 @@ Academic Experiences
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="/files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.8em;"> 
   <b> SmartMore </b><br>
   <br>
@@ -93,7 +92,7 @@ Academic Experiences
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="/files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.8em;"> 
   <b> Websoft @ NJU </b><br>
   <br>
@@ -121,7 +120,4 @@ Services
 - Teaching Assistant, Introduction to Computer System (Elite Class) (23 Fall) @ NJU
 
 
-
-
-
-<iframe src="//clustrmaps.com/map_v2.js?d=HYu7uSRXQfF5xkKMcgICSLX5ZBgost2pw-Dd_V7nY_E&cl=ffffff&w=a" style="width: 100%; height: 400px; border: none;"></iframe>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HYu7uSRXQfF5xkKMcgICSLX5ZBgost2pw-Dd_V7nY_E&cl=ffffff&w=a"></script>
