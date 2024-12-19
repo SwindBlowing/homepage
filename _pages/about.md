@@ -24,7 +24,7 @@ Publications
 
 
 <div style="text-align: left;">
-  <img src="./files/glus.png", alt="" width="75%"/>
+  <img src="./files/glus.png", alt="" width="75%">
 </div>
 
 
@@ -41,7 +41,7 @@ Education
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/NJU.jpg" alt="" style="width: 130px; margin-right: 110px; margin-left: 110px">
+  <img src="./files/NJU.jpg" alt="" style="width: 100px; margin-right: 110px; margin-left: 110px">
   <p style="font-size: 0.9em;"> 
   <b> Nanjing University </b><br>
   2021.09 - 2025.07 (Expected)<br>
@@ -51,11 +51,9 @@ Education
   <b>Ranking: 2/229 </b>
   </p>
 </div>
-
-
-
+  <br><br>
 <div style="display: flex; align-items: center;">
-  <img src="./files/PKU.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="./files/PKU.png" alt="" style="width: 120px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.9em;"> 
   <b> Peking University </b><br>
   2023.07 - 2023.08 <br>
@@ -64,13 +62,13 @@ Education
   </p>
 </div>
 
-
+<br>
 
 Academic Experiences
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="../files/opengvlab.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.9em;"> 
   <b> OpenGVLab @ Shanghai AI Lab </b><br>
   <br>
@@ -83,7 +81,7 @@ Academic Experiences
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
+  <img src="../files/uiuc.png" alt="" style="width: 180px; margin-right: 90px; margin-left: 85px">
   <p style="font-size: 0.9em;"> 
   <b> Vision Lab @ UIUC </b><br>
   <br>
@@ -96,7 +94,7 @@ Academic Experiences
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="../files/smartmore.png" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.9em;"> 
   <b> SmartMore </b><br>
   <br>
@@ -109,7 +107,7 @@ Academic Experiences
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
+  <img src="../files/NJU.jpg" alt="" style="width: 150px; margin-right: 100px; margin-left: 100px">
   <p style="font-size: 0.9em;"> 
   <b> Websoft @ NJU </b><br>
   <br>
@@ -142,13 +140,7 @@ Services
 
 
 
-
-
-
-
-
-
-
+<br><br><br><br>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="width: 200px; height: 150px; overflow: hidden;">
