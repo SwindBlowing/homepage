@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm Lang Lin, a senior undergraduate student at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. Currently, I'm a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated with the [Shanghai AI Lab](https://www.shlab.org.cn/open), where I am fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/).  
+Welcome to my homepage! I'm Lang Lin, a senior undergraduate student at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. Currently, I'm a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated with the [Shanghai AI Laboratory](https://www.shlab.org.cn/open), where I am fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/).  
 
 Previously, I had the privilege of working at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) and the [National Center for Supercomputing Applications](https://github.com/ncsa), under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/). Before that, I served as a research intern at [Websoft](http://ws.nju.edu.cn/wiki/) at NJU, under the guidance of [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng). I was also an active member of NJU ACM/ICPC team. You can download my **CV** from [here](https://drive.google.com/file/d/1TOehCIetE-TVqvNI1r7Bc3N-yl3s8PBM/view?usp=sharing).  
 
-My research interests broadly in computer vision, with a particular focus on multi-modal segmentation, generation, and video segmentation.  
+My research interests broadly in computer vision, with a particular focus on **multi-modal segmentation, generation**, and **video segmentation**.  
 
 **I'm looking for a Ph.D. position starting in 2025 Fall. Please feel free to reach out!**
 
@@ -24,13 +24,13 @@ Publications
 
 
 <div style="text-align: left;">
-  <img src="./files/glus.png" alt="" width="90%">
+  <img src="../files/glus.png" alt="" width="70%">
 </div>
-<br>
-**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
+
+- **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
 <em>In Submission</em>  
-[project page](https://glus-video.github.io/)  
+[[Project Page]](https://glus-video.github.io/)  
 We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.
 
 
