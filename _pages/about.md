@@ -24,7 +24,7 @@ Publications
 
 
 <div style="text-align: left;">
-  <img src="./files/glus.png", alt="" width="75%">
+  <img src="./files/glus.png" alt="" width="75%">
 </div>
 
 
@@ -41,7 +41,7 @@ Education
 ======
 
 <div style="display: flex; align-items: center;">
-  <img src="./files/NJU.jpg" alt="" style="width: 100px; margin-right: 110px; margin-left: 110px">
+  <img src="./files/NJU.jpg" alt="" style="width: 100px; margin-right: 110px; margin-left: 50px">
   <p style="font-size: 0.9em;"> 
   <b> Nanjing University </b><br>
   2021.09 - 2025.07 (Expected)<br>
@@ -51,9 +51,9 @@ Education
   <b>Ranking: 2/229 </b>
   </p>
 </div>
-  <br><br>
+  <br>
 <div style="display: flex; align-items: center;">
-  <img src="./files/PKU.png" alt="" style="width: 120px; margin-right: 100px; margin-left: 100px">
+  <img src="./files/PKU.png" alt="" style="width: 120px; margin-right: 100px; margin-left: 40px">
   <p style="font-size: 0.9em;"> 
   <b> Peking University </b><br>
   2023.07 - 2023.08 <br>
@@ -143,7 +143,7 @@ Services
 <br><br><br><br>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="width: 200px; height: 150px; overflow: hidden;">
+  <div style="width: 230px; height: 180px; overflow: hidden;">
     <script type="text/javascript" id="clustrmaps" 
             src="//clustrmaps.com/map_v2.js?d=HYu7uSRXQfF5xkKMcgICSLX5ZBgost2pw-Dd_V7nY_E&cl=ffffff&w=a">
     </script>
