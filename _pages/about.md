@@ -15,7 +15,7 @@ I had the privilege of working at the [University of Illinois at Urbana-Champaig
 
 <!-- You can download my **CV** from [here](https://drive.google.com/file/d/1TOehCIetE-TVqvNI1r7Bc3N-yl3s8PBM/view?usp=sharing).   -->
 
-My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion models** and **multi-modal reasoning and generation**.  
+My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion models** and **multi-modal generation**.  
 
 
 Publications
@@ -70,7 +70,7 @@ Awards
 - **National Elite Scholarship** (Top 0.2% nationwide, the highest honor for undergraduates in China), 2023
 - **International Collegiate Programming Contest (ICPC), Silver Medal**, 2023
 - China Collegiate Programming Contest (CCPC), Silver Medal, 2022, 2023
-- Fundamental Discipline Special Scholarship at NJU (Ranked 1/147) 2022, 2024>
+- Fundamental Discipline Special Scholarship at NJU (Ranked 1/147) 2022, 2024
 
 
 
@@ -78,7 +78,6 @@ Services
 ======
 
 - **Teaching Assistant**, STA 235 Data Science for Business Applications at UT Austin, 25 Fall
-
 - **Teaching Assistant**, Problem Solving at NJU, 23 Fall, 24 Spring, 24 Fall
 - **Teaching Assistant**, Introduction to Computer System at NJU, 23 Fall
 
