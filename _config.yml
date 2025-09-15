@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
+locale                   : "USA"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lang Lin"
@@ -25,14 +25,14 @@ author:
   name             : "Lang Lin"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Nanjing, China"
-  employer         : # "Red Brick University"
+  location         : "Austin, TX, USA"
+  employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "langlin.academic@gmail.com" 
+  email            : "langlin@utexas.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=eu27Pd8AAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
