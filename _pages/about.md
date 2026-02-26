@@ -28,7 +28,7 @@ Publications
   <img src="./files/glus.png" alt="" width="60%">
 </div>
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;" markdown="1">
 
 - **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
@@ -74,7 +74,7 @@ Education
 Awards
 ======
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;" markdown="1">
 
 - **Dean's Fellowship at UT Austin**, 2025
 - **National Elite Scholarship** (Top 0.2% nationwide, the highest honor for undergraduates in China), 2023
@@ -89,7 +89,7 @@ Awards
 Services
 ======
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;" markdown="1">
 
 - **Teaching Assistant**, STA 235 Data Science for Business Applications at UT Austin, 25 Fall
 - **Teaching Assistant**, Problem Solving at NJU, 23 Fall, 24 Spring, 24 Fall
