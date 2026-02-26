@@ -15,7 +15,7 @@ I was a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated
 
 My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion language models** and **multi-modal generation**. 
 
-<p style="font-size: 1.05em;"><b>I am actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the <span style="color: red;">USA</span> and <span style="color: red;">China</span>. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can also download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
+<p style="font-size: 1.05em;"><b>I am actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and China. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can also download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
 
 
 Publications
@@ -74,7 +74,7 @@ Education
 Awards
 ======
 
-<div style="font-size: 0.9em;" markdown="1">
+<div style="font-size: 0.95em;" markdown="1">
 
 - **Dean's Fellowship at UT Austin**, 2025
 - **National Elite Scholarship** (Top 0.2% nationwide, the highest honor for undergraduates in China), 2023
@@ -89,7 +89,7 @@ Awards
 Services
 ======
 
-<div style="font-size: 0.9em;" markdown="1">
+<div style="font-size: 0.95em;" markdown="1">
 
 - **Teaching Assistant**, STA 235 Data Science for Business Applications at UT Austin, 25 Fall
 - **Teaching Assistant**, Problem Solving at NJU, 23 Fall, 24 Spring, 24 Fall
