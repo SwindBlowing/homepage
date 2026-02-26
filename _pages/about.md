@@ -15,7 +15,7 @@ I was a research intern at [OpenGVLab](https://github.com/OpenGVLab) affiliated 
 
 My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion language models** and **multi-modal generation**. 
 
-<p style="font-size: 1.00em;"><b>I'm actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and Chin, with particular focus on Diffusion Language Models and LLMs. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can also download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
+<p style="font-size: 1.00em;"><b>I'm actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and China, with particular focus on Diffusion Language Models and LLMs. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
 
 
 Publications
