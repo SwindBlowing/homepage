@@ -77,7 +77,7 @@ Awards
 <div style="font-size: 0.95em;" markdown="1">
 
 - **Dean's Fellowship at UT Austin**, 2025
-- **National Elite Scholarship** (Top 0.2% nationwide, the highest honor for undergraduates in China), 2023
+- **National Elite Scholarship** (Top 0.2% nationwide), 2023
 - **International Collegiate Programming Contest (ICPC), Silver Medal**, 2023
 - China Collegiate Programming Contest (CCPC), Silver Medal, 2022, 2023
 - Fundamental Discipline Special Scholarship at NJU (Ranked 1/147) 2022, 2024
