@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm Lang Lin, a first-year PhD student at the [University of Texas at Austin](https://www.utexas.edu/), supervised by professor [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html) working in the fields of generative models. Before joining UT, I earned my bachelor's degree at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. 
+Welcome to my homepage! I'm Lang Lin, a first-year PhD student at the [UT Austin](https://www.utexas.edu/), supervised by [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io/index.html) working in the fields of generative models. Before joining UT, I earned my bachelor's degree at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. 
 
-I was a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated with the [Shanghai AI Laboratory](https://www.shlab.org.cn/open), where I worked on the [InternVideo Series](https://arxiv.org/abs/2512.01342) and was fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/). I had the privilege of working at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/) in the fields of multimodal LLMs. I was also an active member of NJU ACM/ICPC team. 
+I was a research intern at [OpenGVLab](https://github.com/OpenGVLab) affiliated with the [Shanghai AI Lab](https://www.shlab.org.cn/open), where I worked on the [InternVideo Series](https://arxiv.org/abs/2512.01342) and was fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/). I had the privilege of working at the [UIUC](https://illinois.edu/) under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/) in multimodal LLMs. I was also an active member of NJU ACM/ICPC team. 
 
 <!-- You can download my **CV** from [here](https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66).   -->
 
 My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion language models** and **multi-modal generation**. 
 
-<p style="font-size: 1.00em;"><b>I'm actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and China. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can also download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
+<p style="font-size: 1.00em;"><b>I'm actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and Chin, with particular focus on Diffusion Language Models and LLMs. If you are interested, please feel free to reach out via <a href="mailto:langlin@utexas.edu">email</a>! You can also download my CV from <a href="https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66">here</a>.</b></p>
 
 
 Publications
@@ -32,12 +32,12 @@ Publications
 
 - **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
-<em><b>CVPR, 2025.</b></em> [[Project Page]](https://glus-video.github.io/) 
+<em><b>CVPR, 2025.</b></em> [[Project Page]](https://glus-video.github.io/)  
 <em>We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.</em>
 
 - **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**  
 Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, et al.  
-<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388) 
+<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388)  
 <em>We investigate on the mechanism of safety blessing on D-LLMs and further analysis the effect and the scenarios where context-nesting attacking makes the mechanism fail.</em>
 
 </div>
