@@ -7,32 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm Lang Lin, a first-year PhD student supervised by professor [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html) in the statistics track at [IROM](https://www.mccombs.utexas.edu/faculty-research/departments/irom/), [University of Texas at Austin](https://www.utexas.edu/). Previously, I earned my bachelor's degree at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. 
+Welcome to my homepage! I'm Lang Lin, a first-year PhD student at the [University of Texas at Austin](https://www.utexas.edu/), supervised by professor [Mingyuan Zhou](https://mingyuanzhou.github.io/index.html) working in the fields of generative models. [University of Texas at Austin](https://www.utexas.edu/). Before joining UT, I earned my bachelor's degree at [Nanjing University](https://jw.nju.edu.cn/main.htm) (NJU), majoring in computer science within the national elite program. 
 
-<!-- Currently, I'm a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated with the [Shanghai AI Laboratory](https://www.shlab.org.cn/open), where I am fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/).   -->
+I was a research intern at [OpenGVLab](https://github.com/OpenGVLab), affiliated with the [Shanghai AI Laboratory](https://www.shlab.org.cn/open), where I worked on the [InternVideo Series](https://arxiv.org/abs/2512.01342) and was fortunate to be mentored by [Dr. Yi Wang](https://shepnerd.github.io/). I had the privilege of working at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) and the [National Center for Supercomputing Applications](https://github.com/ncsa), under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/).  I was also an active member of NJU ACM/ICPC team. 
 
-I had the privilege of working at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) and the [National Center for Supercomputing Applications](https://github.com/ncsa), under the supervision of [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/).  I was also an active member of NJU ACM/ICPC team. 
+<!-- You can download my **CV** from [here](https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66).   -->
 
-<!-- You can download my **CV** from [here](https://drive.google.com/file/d/1TOehCIetE-TVqvNI1r7Bc3N-yl3s8PBM/view?usp=sharing).   -->
+My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion language models** and **multi-modal generation**. 
 
-My research interests lie broadly in generative models and large language models, with a particular focus on **diffusion models** and **multi-modal generation**.  
+<p style="font-size: 1.05em;"><b>I am actively looking for <span style="color: red;">2026 Summer Research Internship</span> opportunities in both the USA and China. If you are interested, please feel free to reach out via [email](mailto:langlin@utexas.edu)!</b></p> You can also download my CV from [here](https://utexas-my.sharepoint.com/:b:/g/personal/ll38764_eid_utexas_edu/IQDGbxAwss5gQpBRpi4QlVjOARSBxBMBy75DBKwoU9YfUSA?e=OJWX66).
+
 
 
 Publications
 ======
 
-(\* denotes equal contribution)
+( \* denotes equal contribution)
 
 
-<div style="text-align: left;">
-  <img src="./files/glus.png" alt="" width="70%">
+<div style="text-align: center;">
+  <img src="./files/glus.png" alt="" width="60%">
 </div>
 
 - **GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**  
 **Lang Lin\***, Xueyang Yu\*, [Ziqi Pang\*](https://ziqipang.github.io/), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)  
 <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025</em>  
-[[Project Page]](https://glus-video.github.io/)  
-We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.
+[[Project Page]](https://glus-video.github.io/) We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.
+
+- **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**
+Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, Philip Torr, et al.
+<em>Under Review<em>
+[[Paper Link]](https://arxiv.org/abs/2602.00388) We investigate on the mechanism of safety blessing on D-LLMs and further analysis the effect and the scenarios where context-nesting attacking makes the mechanism fail.
 
 
 
