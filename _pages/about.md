@@ -35,9 +35,26 @@ Publications
 <em><b>CVPR, 2025.</b></em> [[Project Page]](https://glus-video.github.io/)  
 <em>We propose a simple yet effective MLLMs for language-instructed video segmentation. It emphasizes global-local video understanding and achieves SOTA performance on multiple benchmarks.</em>
 
-- **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**  
-Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, et al.  
-<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388)  
+</div>
+
+<div style="text-align: center;">
+  <img src="./files/internvideonext.png" alt="" width="60%">
+</div>
+
+<div style="font-size: 0.95em;" markdown="1">
+
+- **InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision**
+Chenting Wang, Yuhan Zhu, Yicheng Xu, Jiange Yang, **Lang Lin**, Ziang Yan, Yali Wang, Yi Wang, Limin Wang
+<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2512.01342)
+<em>We propose an Encoder-Predictor-Decoder framework for masked video modeling that bridges pixel-level fidelity with high-level semantics via a two-stage pretraining scheme, achieving SOTA results across video benchmarks without video-text supervision.</em>
+
+</div>
+
+<div>
+
+- **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**
+Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, et al.
+<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388)
 <em>We investigate on the mechanism of safety blessing on D-LLMs and further analysis the effect and the scenarios where context-nesting attacking makes the mechanism fail.</em>
 
 </div>
