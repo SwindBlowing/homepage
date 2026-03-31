@@ -43,18 +43,18 @@ Publications
 
 <div style="font-size: 0.95em;" markdown="1">
 
-- **InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision**
-Chenting Wang, Yuhan Zhu, Yicheng Xu, Jiange Yang, **Lang Lin**, Ziang Yan, Yali Wang, Yi Wang, Limin Wang
-<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2512.01342)
+- **InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision**  
+Chenting Wang, Yuhan Zhu, Yicheng Xu, Jiange Yang, **Lang Lin**, Ziang Yan, Yali Wang, Yi Wang, Limin Wang  
+<em><b>CVPR, 2026.</b></em> [[Paper Link]](https://arxiv.org/abs/2512.01342)  
 <em>We propose an Encoder-Predictor-Decoder framework that disentangles the predictor as a latent world model from reconstruction, using a conditional diffusion decoder to bridge pixel-level fidelity with semantic abstraction. Trained on unlabeled videos without any text supervision, it achieves SOTA results across video understanding benchmarks.</em>
 
 </div>
 
-<div>
+<div style="font-size: 0.95em;" markdown="1">
 
-- **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**
-Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, et al.
-<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388)
+- **A Fragile Guardrail: Diffusion LLM’s Safety Blessing and Its Failure Mode**  
+Zeyuan He\*, Yupeng Chen\*, **Lang Lin\***, Yihan Wang, Shenxu Chang, Eric Sommerlade, et al.  
+<em>Under Review.</em> [[Paper Link]](https://arxiv.org/abs/2602.00388) 
 <em>We investigate on the mechanism of safety blessing on D-LLMs and further analysis the effect and the scenarios where context-nesting attacking makes the mechanism fail.</em>
 
 </div>
